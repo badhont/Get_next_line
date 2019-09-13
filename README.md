@@ -1,5 +1,5 @@
 # Get_next_line
-  A usefull function to parse a file line by line
+ A usefull function to parse a file line by line
 
 ## Built with
   C language
