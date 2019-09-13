@@ -6,7 +6,6 @@
 
 ## Installing
   - Git clone the repository
-  - Compile it with `make`
 
 ## Prototype
   `int  get_next_line(int fd, char **line)`
